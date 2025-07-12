@@ -1,2 +1,2 @@
-# DoceEssencia
-Doce Essência é um software de receitas de doces inspirado no universo da moranguinho, com uma essencia doce e mágica, trazendo a imagem fofa que o desenho representa. Ele foi criado com o intuito de avaliação em sala de aula.
+# Doce Essência
+🍓 O site Doce Essência é um verdadeiro refúgio encantado para amantes da confeitaria com alma frutada! Inspirado no universo mágico da Moranguinho, ele oferece uma experiência doce e nostálgica, com receitas que parecem saídas diretamente da Cidade Tutti Frutti. A interface é delicada e colorida, com ilustrações que remetem aos personagens clássicos e modernos da série. Navegar por suas páginas é como folhear um livro de receitas encantado. Cada receita vem acompanhada de dicas carinhosas, fotos inspiradoras e histórias que conectam o sabor à fantasia. É o lugar perfeito para quem quer transformar ingredientes simples em momentos mágicos. 🍰✨
